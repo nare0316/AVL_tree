@@ -1,6 +1,4 @@
-💻 AVL Tree Implementation (Balanced Binary Search Tree)
-
-This repository contains an implementation of an AVL tree (Adelson-Velsky and Landis tree) automatically balances itself after each insertion or deletion to maintain the property that the heights of the two child subtrees of any node differ by at most one.
+💻  AVL tree (Adelson-Velsky and Landis tree) automatically balances itself after each insertion or deletion to maintain the property that the heights of the two child subtrees of any node differ by at most one.
  
 📎 The key operations on an AVL tree (insert, delete, and search) are efficient and take O(log n) time, where n is the number of nodes in the tree.
 
